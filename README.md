@@ -1,5 +1,5 @@
 # Rock_Paper_Scissors
-Rock Paper Scissors with 2 bots, try to beat them :). And also, there is an 1v1 player vs player option too if you want.
+Rock Paper Scissors with 2 bots and it is played on command block, try to beat them :). And also, there is an 1v1 player vs player option too if you want.
 
 *For instance, with these portraits one can imagine how it feels to play against them:*
 
