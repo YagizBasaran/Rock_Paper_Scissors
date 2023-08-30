@@ -57,7 +57,6 @@ int main() {
 
 	}
 	else if(selection == "v"){
-
 		cout << "Playing versus ANOTHER PLAYER, good luck...\nFor selection: " << endl;
 
 				bool gameOn = true;
